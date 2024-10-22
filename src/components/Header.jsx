@@ -7,7 +7,7 @@ const Header = () => {
                     <h3 className="text-2xl font-semibold ">Recipe Calories</h3>
                 </div>
                 <div>
-                    <ul className="flex gap-3">
+                    <ul className="flex gap-2">
                         <li className="text-[20px] cursor-pointer">Home</li>
                         <li className="text-[20px] cursor-pointer">Recipes</li>
                         <li className="text-[20px] cursor-pointer">About</li>
