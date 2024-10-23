@@ -13,8 +13,8 @@
         "1 tablespoon olive oil",
         "1 teaspoon chili flakes"
       ],
-      "preparing_time": "30 min",
-      "calories": "320 calories"
+      "preparing_time": "30 ",
+      "calories": "320 "
     },
     {
       "recipe_id": "10002",
@@ -29,8 +29,8 @@
         "1 tablespoon parsley",
         "Salt and pepper to taste"
       ],
-      "preparing_time": "20 min",
-      "calories": "250 calories"
+      "preparing_time": "20 ",
+      "calories": "250 "
     },
     {
       "recipe_id": "10003",
@@ -45,8 +45,8 @@
         "2 cloves garlic",
         "Salt and pepper to taste"
       ],
-      "preparing_time": "25 min",
-      "calories": "550 calories"
+      "preparing_time": "25",
+      "calories": "550"
     },
     {
       "recipe_id": "10004",
@@ -61,8 +61,8 @@
         "Salt and pepper to taste",
         "Lemon juice"
       ],
-      "preparing_time": "10 min",
-      "calories": "200 calories"
+      "preparing_time": "10 ",
+      "calories": "200"
     },
     {
       "recipe_id": "10005",
@@ -77,8 +77,8 @@
         "Fresh dill",
         "Salt and pepper to taste"
       ],
-      "preparing_time": "15 min",
-      "calories": "400 calories"
+      "preparing_time": "15",
+      "calories": "400"
     },
     {
       "recipe_id": "10006",
@@ -94,8 +94,8 @@
         "1 tablespoon sesame oil",
         "1 clove garlic"
       ],
-      "preparing_time": "20 min",
-      "calories": "180 calories"
+      "preparing_time": "20 ",
+      "calories": "180 "
     }
   ]
   

@@ -32,9 +32,23 @@ const RecepiesCard = () => {
                     }
                   </div>
 
+                  <div className="flex gap-5">
+                    <div className="flex items-center gap-2">
+                    <i className="fa-regular fa-clock"></i>
+                    <p>{resi.preparing_time} minutes</p>
+                    </div>
 
-                  <div className="card-actions justify-end">
-                    <button className="btn btn-primary">Buy Now</button>
+                    <div className="flex items-center gap-2">
+                    <i className="fa-solid fa-fire-flame-curved"></i>
+                    <p>{resi.calories} calories</p>
+
+                    </div>
+
+                  </div>
+
+
+                  <div className="card-actions ">
+                    <button className="px-8 font-semibold mt-5 py-3 rounded-full bg-[#0BE58A]">Want To Cook</button>
                   </div>
                 </div>
               </div>)
