@@ -1,0 +1,101 @@
+[
+    {
+      "recipe_id": "10001",
+      "recipe_name": "Basil Chicken Stir-Fry",
+      "short_description": "A flavorful stir-fry of chicken with fresh basil, mushrooms, and soy sauce.",
+      "recipe_image":"https://i.ibb.co.com/5Wj8BqQ/Rectangle-20170-1.png",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom",
+        "2 cloves garlic",
+        "1 tablespoon olive oil",
+        "1 teaspoon chili flakes"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": "10002",
+      "recipe_name": "Garlic Butter Shrimp",
+      "short_description": "A savory dish of shrimp sautéed in garlic butter and lemon.",
+      "recipe_image": "https://i.ibb.co.com/cXxj31f/Rectangle-20170.png",
+      "ingredients": [
+        "400 g shrimp",
+        "50 g butter",
+        "4 cloves garlic",
+        "2 tablespoons lemon juice",
+        "1 tablespoon parsley",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "20 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_id": "10003",
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "Classic Italian pasta with bacon, eggs, and Parmesan cheese.",
+      "recipe_image": "https://i.ibb.co.com/JdN9V3J/download-1.jpg",
+      "ingredients": [
+        "400 g spaghetti",
+        "150 g bacon",
+        "3 large eggs",
+        "100 g Parmesan cheese",
+        "2 cloves garlic",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "25 min",
+      "calories": "550 calories"
+    },
+    {
+      "recipe_id": "10004",
+      "recipe_name": "Avocado Toast",
+      "short_description": "A simple yet delicious toast topped with smashed avocado and seasonings.",
+      "recipe_image": "https://i.ibb.co.com/M7fJL40/download.jpg",
+      "ingredients": [
+        "2 slices whole grain bread",
+        "1 ripe avocado",
+        "1 tablespoon olive oil",
+        "1 teaspoon chili flakes",
+        "Salt and pepper to taste",
+        "Lemon juice"
+      ],
+      "preparing_time": "10 min",
+      "calories": "200 calories"
+    },
+    {
+      "recipe_id": "10005",
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Perfectly grilled salmon with a hint of lemon and herbs.",
+      "recipe_image": "https://i.ibb.co.com/n86CbRw/images.jpg",
+      "ingredients": [
+        "2 salmon fillets",
+        "2 tablespoons olive oil",
+        "1 tablespoon lemon juice",
+        "1 teaspoon garlic powder",
+        "Fresh dill",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "15 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_id": "10006",
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "A healthy stir-fry with fresh vegetables and soy sauce.",
+      "recipe_image":"https://i.ibb.co.com/bQ53SSL/pexels-zvolskiy-4108278.jpg",
+      "ingredients": [
+        "200 g broccoli",
+        "150 g bell peppers",
+        "100 g carrots",
+        "100 g snow peas",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "1 clove garlic"
+      ],
+      "preparing_time": "20 min",
+      "calories": "180 calories"
+    }
+  ]
+  
